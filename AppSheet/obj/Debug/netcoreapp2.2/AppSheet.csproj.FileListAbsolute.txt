@@ -1,0 +1,10 @@
+C:\Users\Shawn\source\repos\AppSheet\AppSheet\bin\Debug\netcoreapp2.2\AppSheet.deps.json
+C:\Users\Shawn\source\repos\AppSheet\AppSheet\bin\Debug\netcoreapp2.2\AppSheet.runtimeconfig.json
+C:\Users\Shawn\source\repos\AppSheet\AppSheet\bin\Debug\netcoreapp2.2\AppSheet.runtimeconfig.dev.json
+C:\Users\Shawn\source\repos\AppSheet\AppSheet\bin\Debug\netcoreapp2.2\AppSheet.dll
+C:\Users\Shawn\source\repos\AppSheet\AppSheet\bin\Debug\netcoreapp2.2\AppSheet.pdb
+C:\Users\Shawn\source\repos\AppSheet\AppSheet\obj\Debug\netcoreapp2.2\AppSheet.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\source\repos\AppSheet\AppSheet\obj\Debug\netcoreapp2.2\AppSheet.AssemblyInfoInputs.cache
+C:\Users\Shawn\source\repos\AppSheet\AppSheet\obj\Debug\netcoreapp2.2\AppSheet.AssemblyInfo.cs
+C:\Users\Shawn\source\repos\AppSheet\AppSheet\obj\Debug\netcoreapp2.2\AppSheet.dll
+C:\Users\Shawn\source\repos\AppSheet\AppSheet\obj\Debug\netcoreapp2.2\AppSheet.pdb
